@@ -41,15 +41,27 @@ Imported background image for menus
 A wake-up sequence when you press "start"
 
 ## References
-fonts
+SpiderMonster 3D model created by Regulator on Sketchfab (https://sketchfab.com/3d-models/spider-monster-a6b43de874bb418a8601911ad2bf00e7)
 
-3d model of spider
+Key 3D model created by Sunny Troyer
 
-key model made by me
+Exit 3D model created by Sunny Troyer
 
-sound effects and music credits
+Sound effects created by Sunny Troyer, on ChipTone (https://sfbgames.itch.io/chiptone)
 
-adobe stock photo for menu background and hearts
+Music created by Sunny Troyer, on Soundtrap (https://www.soundtrap.com), with soundscapes provided by Freesound (https://freesound.org)
+
+Background image for menus is "scary picture of hands behind glass", created by Melinda Nagy on Adobe Stock (https://stock.adobe.com/images/scary-picture-of-hands-behind-glass/403093283?prev_url=detail)
+
+Heart image for health is "Red heart icons set vector" (second heart), created by warmworld on Adobe Stock (https://stock.adobe.com/images/red-heart-icons-set-vector/314564554?prev_url=detail)
+
+FONTS USED:
+
+Nightcore by The Branded Quotes on DaFont (https://www.dafont.com/nightcore.font)
+
+Witchwoode Regular by Sinister Fonts on DaFont (https://www.dafont.com/witchwoode.font)
+
+Brunson Rough by The Branded Quotes on DaFont (https://www.dafont.com/brunson.font)
 
 ## Future Development
 Different enemy types, more scenery, more complex enemy behaviors, better atmosphere
