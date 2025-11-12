@@ -1,4 +1,4 @@
-# Exercise-05c-LightsAndMaterials
+# Exercise-05D-EnemiesAndNavMeshes
 
 
 ## Implementation
