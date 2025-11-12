@@ -10,15 +10,15 @@ PrefabInstance:
     m_Modifications:
     - target: {fileID: -8679921383154817045, guid: 9ed2342783a90e94ea2d7480a7d4df30, type: 3}
       propertyPath: m_LocalScale.x
-      value: 40
+      value: 50
       objectReference: {fileID: 0}
     - target: {fileID: -8679921383154817045, guid: 9ed2342783a90e94ea2d7480a7d4df30, type: 3}
       propertyPath: m_LocalScale.y
-      value: 40
+      value: 50
       objectReference: {fileID: 0}
     - target: {fileID: -8679921383154817045, guid: 9ed2342783a90e94ea2d7480a7d4df30, type: 3}
       propertyPath: m_LocalScale.z
-      value: 40
+      value: 50
       objectReference: {fileID: 0}
     - target: {fileID: -8679921383154817045, guid: 9ed2342783a90e94ea2d7480a7d4df30, type: 3}
       propertyPath: m_LocalPosition.x
@@ -61,10 +61,6 @@ PrefabInstance:
       value: 0
       objectReference: {fileID: 0}
     - target: {fileID: -7511558181221131132, guid: 9ed2342783a90e94ea2d7480a7d4df30, type: 3}
-      propertyPath: m_ReceiveShadows
-      value: 1
-      objectReference: {fileID: 0}
-    - target: {fileID: -7511558181221131132, guid: 9ed2342783a90e94ea2d7480a7d4df30, type: 3}
       propertyPath: m_Materials.Array.data[0]
       value: 
       objectReference: {fileID: 2100000, guid: 94e2066dbe08acf45a1ba699471d47aa, type: 2}
@@ -84,6 +80,9 @@ PrefabInstance:
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
     m_AddedComponents:
+    - targetCorrespondingSourceObject: {fileID: 919132149155446097, guid: 9ed2342783a90e94ea2d7480a7d4df30, type: 3}
+      insertIndex: 1
+      addedObject: {fileID: 4162168035554959253}
     - targetCorrespondingSourceObject: {fileID: 919132149155446097, guid: 9ed2342783a90e94ea2d7480a7d4df30, type: 3}
       insertIndex: -1
       addedObject: {fileID: 8858013622979017993}
@@ -105,6 +104,29 @@ GameObject:
   m_CorrespondingSourceObject: {fileID: 919132149155446097, guid: 9ed2342783a90e94ea2d7480a7d4df30, type: 3}
   m_PrefabInstance: {fileID: 8427253583076689519}
   m_PrefabAsset: {fileID: 0}
+--- !u!136 &4162168035554959253
+CapsuleCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 8661257343429884734}
+  m_Material: {fileID: 0}
+  m_IncludeLayers:
+    serializedVersion: 2
+    m_Bits: 0
+  m_ExcludeLayers:
+    serializedVersion: 2
+    m_Bits: 0
+  m_LayerOverridePriority: 0
+  m_IsTrigger: 1
+  m_ProvidesContacts: 0
+  m_Enabled: 1
+  serializedVersion: 2
+  m_Radius: 0.018622642
+  m_Height: 0.042885624
+  m_Direction: 1
+  m_Center: {x: 0.00087873935, y: -0.0023929905, z: 0.00022315024}
 --- !u!114 &8858013622979017993
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -156,8 +178,8 @@ AudioSource:
   SpatializePostEffects: 0
   Priority: 143
   DopplerLevel: 1
-  MinDistance: 0.44166073
-  MaxDistance: 6738.8125
+  MinDistance: 1
+  MaxDistance: 500
   Pan2D: 0
   rolloffMode: 0
   BypassEffects: 0
@@ -250,8 +272,8 @@ NavMeshAgent:
   m_AutoTraverseOffMeshLink: 1
   m_AutoBraking: 1
   m_AutoRepath: 1
-  m_Height: 0.028572068
-  m_BaseOffset: 0.014286034
+  m_Height: 0.025
+  m_BaseOffset: 0.007
   m_WalkableMask: 4294967295
   m_ObstacleAvoidanceType: 4
 --- !u!114 &-4546797037300146048
