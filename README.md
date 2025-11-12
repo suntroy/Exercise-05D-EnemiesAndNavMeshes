@@ -49,7 +49,7 @@ key model made by me
 
 sound effects and music credits
 
-adobe stock photo
+adobe stock photo for menu background and hearts
 
 ## Future Development
 Different enemy types, more scenery, more complex enemy behaviors, better atmosphere
