@@ -12,7 +12,7 @@ GameObject:
   - component: {fileID: 8931860816057134325}
   - component: {fileID: 5980635590183139016}
   - component: {fileID: 3639321141688210090}
-  m_Layer: 0
+  m_Layer: 7
   m_Name: body
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -117,7 +117,7 @@ GameObject:
   m_Component:
   - component: {fileID: 7896396699561878908}
   - component: {fileID: 698475581885163012}
-  m_Layer: 0
+  m_Layer: 7
   m_Name: Point Light
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -213,7 +213,7 @@ GameObject:
   - component: {fileID: 2719912524235639444}
   - component: {fileID: 6680517952256330494}
   - component: {fileID: 2173505412565932499}
-  m_Layer: 0
+  m_Layer: 7
   m_Name: Cylinder (1)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -320,7 +320,7 @@ GameObject:
   - component: {fileID: 2365290895523772644}
   - component: {fileID: 5774117611594541801}
   - component: {fileID: 3683204896822619657}
-  m_Layer: 0
+  m_Layer: 7
   m_Name: Cylinder (2)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -425,9 +425,9 @@ GameObject:
   m_Component:
   - component: {fileID: 1539316324937412868}
   - component: {fileID: 9072701107029049087}
-  m_Layer: 0
+  m_Layer: 7
   m_Name: key
-  m_TagString: Untagged
+  m_TagString: key
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -471,10 +471,10 @@ CapsuleCollider:
   m_ProvidesContacts: 0
   m_Enabled: 1
   serializedVersion: 2
-  m_Radius: 0.70667416
-  m_Height: 3.3709092
+  m_Radius: 4
+  m_Height: 6
   m_Direction: 1
-  m_Center: {x: -0.59, y: -0.15362012, z: -1.2599304}
+  m_Center: {x: -0.44253805, y: 0.12457649, z: -1.2747769}
 --- !u!1 &6182932835374887337
 GameObject:
   m_ObjectHideFlags: 0
@@ -487,7 +487,7 @@ GameObject:
   - component: {fileID: 27347041549749601}
   - component: {fileID: 981165199174282516}
   - component: {fileID: 6022904237398485096}
-  m_Layer: 0
+  m_Layer: 7
   m_Name: head
   m_TagString: Untagged
   m_Icon: {fileID: 0}

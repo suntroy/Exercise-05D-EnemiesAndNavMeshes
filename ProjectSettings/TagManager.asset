@@ -8,6 +8,9 @@ TagManager:
   - tile
   - heartContainer
   - allContainer
+  - key
+  - uiController
+  - buttonExit
   layers:
   - Default
   - TransparentFX
@@ -16,8 +19,8 @@ TagManager:
   - Water
   - UI
   - enemy
-  - 
-  - 
+  - key
+  - buttonExit
   - 
   - 
   - 
