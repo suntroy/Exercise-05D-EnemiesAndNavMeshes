@@ -6,8 +6,13 @@
 Sunny Troyer
 ------------------------------------
 # Project 5 -- GETAWAY
-dsad
+For this project, we were given 15 tile prefabs and a procedurally generated maze script. Through exercises, we learned how to make a user-controlled player, how to use procedural generation, how to use materials and lights, and how to utilize nav mesh agents to make randomly moving enemies that can be destroyed.
+
+We were then instructed to apply other concepts from previous projects (create menus, UI, a goal...) to increase the quality of the project and make it our own. 
+
 ## Implementation / Features you added
+Built using Unity 2022.3.45f
+
 One user-controlled player
 
 A large, randomly-generated maze level for the player to navigate
